@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+/*BANGTAN LMS*/
+body
+{
+	
+	margin:0px;
+}
+
+.head
+{
+	font-family:cursive ;
+	font-size:40px;
+	color:#FFF;
+	margin-left:22%;
+    margin-right:22%;
+}
+.container-fluid {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#banner
+{
+	width:99.5%;
+	height:100px;
+	border:2px solid #FFF;
+	background-color:rgba(0,0,0,0.7);
+}
+.clg
+{
+	font-family:"Segoe UI";
+	font-size:16px;
+	color:#FF0;
+}
+#wrapper
+{
+	width:800px;
+	border-radius:10px;
+	border:2px solid #FFF;
+	background-color:rgba(0,0,0,0.7);
+}
+
+.first-wrapper
+{
+	width:40%;
+	background: #9514e654;
+	float:left;
+	margin-left: 5%;
+	margin-top: 7%;
+	height: 300px;
+}
+
+.second-wrapper
+{
+	width:40%;
+	background: #9514e654;
+	float: right;
+	margin-right: 5%;
+	margin-top: 7%;
+	height: 300px;
+}
+.SubHead
+{
+	font-family:"Segoe UI";
+	color:#FFF;
+	font-size:20px;
+}
+.labels
+{
+	font-family:"Trebuchet MS";
+	font-size:16px;
+	color:#FF3;
+}
+.fields
+{
+	font-family:"Trebuchet MS";
+	font-size:14px;
+	color:#FF3;
+	border-radius:5px;
+	padding:4px 6px;
+	border:1px solid #FF3;
+	background-color:transparent;
+}
+
+.table
+{
+	border-radius:5px;
+	padding:0px 5px;
+	border:1px solid #FF3;
+	background-color:transparent;
+}
+a.link:link{font-family:"Segoe UI";font-size:16px;color:#FFF;text-decoration:none;}
+a.link:active{font-family:"Segoe UI";font-size:16px;color:#FFF;text-decoration:none;}
+a.link:visited{font-family:"Segoe UI";font-size:16px;color:#FFF;text-decoration:none;}
+a.link:hover{font-family:"Segoe UI";font-size:16px;color:#FFF;text-decoration:none;}
+.msg
+{
+	font-family:"Segoe UI";
+	color:#6F6;
+	font-size:13px;
+}
+a.Command:link{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:active{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:visited{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:hover{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #F60;border-radius:5px;box-shadow:0px 0px 10px #FFFFFF;}

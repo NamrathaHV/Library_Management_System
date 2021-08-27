@@ -1,6 +1,7 @@
 # LIBRARY MANAGEMENT SYSTEM
 
 System is mainly to provide automation to the library.
+PHP, MySQL, HTML, CSS, JAVASCRIPT, XAMPP.
 
 #                                                                 ER Diagram:
 ![ER](https://user-images.githubusercontent.com/57282319/130991573-c7aecda3-853f-4e85-bc5a-0d3e566eba72.png)
